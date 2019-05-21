@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW5</string>
+    <string name="default_sides">4</string>
+    <string name="default_sideLength">2</string>
+    <string name="default_units">Inches</string>
+    <string name="display_angles">Interior Angles: </string>
+    <string name="display_perimeter">Perimeter: </string>
+</resources>
